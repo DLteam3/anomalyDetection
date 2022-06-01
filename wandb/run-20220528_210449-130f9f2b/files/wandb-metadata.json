@@ -1,0 +1,21 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.8.8",
+    "heartbeatAt": "2022-05-28T12:04:53.348262",
+    "startedAt": "2022-05-28T12:04:49.290385",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/jaemyoung/DL_teamproject.git",
+        "commit": "8b27aee0a377e01b9db3358baa1d6321c88f6233"
+    },
+    "email": "35715977+jaemyoung@users.noreply.github.com",
+    "root": "C:/Users/user/Documents/GitHub/DL_teamproject",
+    "host": "DESKTOP-1AU5S7Q",
+    "username": "user",
+    "executable": "C:\\ProgramData\\Anaconda3\\python.exe"
+}
